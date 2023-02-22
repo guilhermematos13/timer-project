@@ -15,7 +15,7 @@ export function addNewCycleAction(newCycle: Cycle) {
   }
 }
 
-export function interruptCurrentCycleAction(activeCycleId: Cycle) {
+export function interruptCurrentCycleAction() {
   return {
     type: ActionTypes.INTERRUPT_CURRENT_CYCLE,
   }
