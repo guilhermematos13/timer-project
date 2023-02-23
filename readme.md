@@ -2,10 +2,6 @@
 
 This is an individual project in order to improve my learning
 
-## Deployment
-
-To deploy this project run
-
 ## ⚙️ Installation
 
 Install Dependencies
