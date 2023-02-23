@@ -50,3 +50,5 @@ Generate build project
 ## Deploy Link
 
 - [Timer](https://timer-omega.vercel.app/)
+
+- Only Web
